@@ -9,8 +9,8 @@ Technology Used: Ionic Framework Angular JS Wordnik API gulp npm gimp Apache Cor
 
 For further queries do not hesitate to contact me.
 
-Ayush Sharma Arya College Of Engineering & IT, Jaipur India.
+Wycliffe Sawo.
 
-contact details: ayush.aceit@gmail.com
+contact details: saworieza@gmail.com
 
-IRC: ayushpix
+
